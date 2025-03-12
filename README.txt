@@ -43,8 +43,4 @@ Navigation SDK -> Integrate Google Maps navigation with the ability to route use
 		  to a site
 
 
---------APK FILES------------------
-App for user: User\app\build\outputs\apk\debug\app-debug.apk
-App for admin: Admin\app\build\outputs\apk\debug\app-debug.apk
-
 
