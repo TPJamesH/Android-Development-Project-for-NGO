@@ -37,7 +37,7 @@ one of the markers.
 
 Firebase-Realtime Database => Storing data (e.g user's information and site details)
 
-Google Maps SDK -> Retrieving user's location and site's location
+Google Maps SDK -> Retrieving user's location and site's location (NOTE: NEED TO BE SETUP ON THE RESPECTIVE MACHINE)
 
 Navigation SDK -> Integrate Google Maps navigation with the ability to route user's current location
 		  to a site
